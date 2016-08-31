@@ -1,0 +1,77 @@
+==Description==
+
+pd_subscriptions_plans allows you to manage plans, add or remove, adjust visibility, manage users who want to subscribe to the plan.
+
+Plans
+In the "plans" you create your plan description, price and color. To make a mark in the checkbox of its visibility on the site.
+There you can select the number of panels in the string and the function of subscribing to a plan.
+
+Shortcode
+If you wont to show your plans on site - placed in a post shortcode [plans].
+
+Notifications
+In notifikations tab you can view the users who have subscribed to your plan and manage subscriptions (delete, confirm).
+
+Subscription
+If unregistered user wants to subscribe to a plan - it will be automatically redirected to the registration page by clicking on the plan. after registration it
+ will not have to re-subscribe to a plan - a plan data to which the user would like to subscribe, they will be automatically entered in the unconfirmed notification 
+about signing up for the plan.
+
+Users
+To view a summary of your subscription users to plan - you can go to the section of users, which will include the name of the plan to which the user is 
+signed and confirmed the status of the subscription.
+
+Remove plan
+If you want to delete the plan to which your users are signed - plugin will warn you about this.
+
+Removing subscription notifications
+If you press the delete notification subscription in the notification section, the user will automatically be deleted.
+
+subscription confirmation
+When you agree to a subscription user - entry is removed from the notification, then you can see the data confirmed the plan in the "users".
+
+==Installation==
+
+1)Upload the entire pd_subscriptions_plans folder to the /wp-content/plugins/ directory.
+2)Activate the plugin through the 'Plugins' menu in WordPress.
+You will find 'PD subscriptions plans' menu in your WordPress admin panel.
+
+
+==Опис==
+
+pd_subscriptions_plans дозволяє управляти планами, додавати або видаляти їх, налаштовувати видимість, управляти користувачами які хочуть підписатися на ваші плани.
+
+Plans
+В "plans" ви створюєте опис плану, вказуєте ціну й колір панелі плану. Для того, щоб зробити план видимим на сайті - відмітьте його прапорцем в колонці visibility.
+В "plans"  ви можете вибрати кількість панелей в рядку і функцію підписки на план(on/off).
+
+Notifications
+На вкладці notifikations ви можете переглянути список користувачів, які підписалися на ваш план і управляти підпискою (видалення, підтвердження).
+Ви можете знайти настройки в панелі адміністратора на закладці "PD subscriptions plans".
+
+Shortcode
+Якщо ви хочете вивести свої плани на сайті - помістіть в пост шорткод [plans].
+
+Subscription
+Якщо незареєстрований користувач хоче підписатися на план - він буде автоматично перенаправлений на сторінку реєстрації після натискання на план. після реєстрації 
+йому  не доведеться заново підписуватися на план - дані про план, на який користувач хотів підписатися, будуть автоматично занесені в непідтверджені 
+повідомлення про підписку на план.
+
+Users
+Для перегляду загальних даних по підписці ваших користувачів на плани - ви можете зайти в розділ Users, де буде вказано назву плану, на який підписаний користувач
+ і статус підтвердження підписки.
+
+Delete plan
+Якщо ви захочете видалити план, на який підписані ваші користувачі - плагін попередить вас про це.
+
+Видалення повідомлення про підписку
+Якщо ви натискаєте видалити повідомлення про підписку в розділі notifications, то користувач буде автоматично видалений.
+
+Підтвердження підписки
+Коли ви підтверджуєте підписку у користувача - запис видаляється з notifications, далі ви зможете подивитися дані по підтвердженому плану у вкладці Users.
+
+==Установка==
+
+1) Завантажте папку pd_subscriptions_plans в директорію /wp-content/plugins/.
+2)Активуйте плагін через меню "Plugins" у WordPress.
+Ви знайдете меню  'PD subscriptions plans' у вашій адмін панелі. 
